@@ -260,7 +260,7 @@ header div#title {
 }
 
 .carousel-caption {
-    
+
 }
 
 
@@ -280,6 +280,30 @@ header div#title {
 
 /* Test 3 */
 
+/*CONTENU */
+
+#contenu{
+    font-size: 50px;
+    font-weight: 200;
+}
+
+.intro {
+    font-size: 23px;
+    font-weight: 200;
+    border-right: 1px solid grey;
+}
+
+.decouvre {
+    font-size: 18px;
+    font-weight: 400;
+    font: uppercase;
+}
+
+.end {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 300;
+}
 
 
 
